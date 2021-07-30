@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen Ramachandriya
-- 👀 I’m interested in c,c++,labView,python,signal processing,RTOS,PCB
+- 👀 I’m interested in c,c++,labView, python,signal processing, RTOS, PCB Design
 - 🌱 I’m currently learning python and signal processing
 
 <!---
